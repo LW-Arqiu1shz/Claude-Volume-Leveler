@@ -22,7 +22,7 @@
 
 要求 EchoMusic ≥ 2.3.2。
 
-1. 把本仓库放到 `%APPDATA%\echo-music\plugins\Claude-Volume-Leveler\`
+1. 到 [Releases](https://github.com/LW-Arqiu1shz/Claude-Volume-Leveler/releases/latest) 下载 `Claude-Volume-Leveler-版本号.zip`，解压到 `%APPDATA%\echo-music\plugins\`，得到 `plugins\Claude-Volume-Leveler\` 文件夹（里面直接就是 `manifest.json`）
 2. 重启 EchoMusic，在插件管理里启用
 3. 插件会申请两项权限：
    - **音频频谱**：实时测量响度
