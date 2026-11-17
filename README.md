@@ -3,7 +3,6 @@
 <img src="icon.png" width="128" align="right" alt="icon">
 
 [EchoMusic](https://github.com/hoowhoami/EchoMusic) 插件：现在小克会帮你实时调歌曲音量啦~再也不用担心一会儿听不见一会儿伤耳朵喽
-与[小克音乐下载器](https://github.com/LW-Arqiu1shz/Claude-Music-Downloader)一起用还可以下载均衡版音乐哦！
 
 ## 功能
 
