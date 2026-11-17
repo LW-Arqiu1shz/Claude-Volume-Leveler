@@ -1,0 +1,16 @@
+{
+  "id": "Claude-Volume-Leveler",
+  "name": "小克音量均衡器",
+  "version": "1.2.0",
+  "description": "现在小克会帮你实时调歌曲音量啦~再也不用担心一会儿听不见一会儿伤耳朵喽\n与小克音乐下载器一起用还可以下载均衡版音乐哦！",
+  "author": "Claude & Arqiu-owo",
+  "icon": "icon.png",
+  "main": "index.js",
+  "capabilities": {
+    "audioSpectrum": true,
+    "unrestrictedNetwork": true
+  },
+  "requires": {
+    "echoMusicVersion": ">=2.3.2"
+  }
+}
